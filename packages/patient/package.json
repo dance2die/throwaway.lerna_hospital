@@ -1,6 +1,6 @@
 {
   "name": "@dance2die_demo/patient",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "dance2die <sungmkim80@gmail.com>",
   "homepage": "",
@@ -20,5 +20,6 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "d462247d32a74a4c4562fffbc8eca40b7648767c"
 }
