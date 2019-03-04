@@ -2,6 +2,8 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "@dance2die_demo/doctor": "0.0.3",
+    "@dance2die_demo/patient": "0.0.3",
     "lerna": "^3.13.1"
   },
   "dependencies": {
@@ -9,6 +11,7 @@
     "typescript": "^3.3.3333"
   },
   "scripts": {
+    "start": "ts-node src/index.ts",
     "publish": "lerna run tsc && lerna publish"
   }
 }
